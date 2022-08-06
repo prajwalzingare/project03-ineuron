@@ -15,11 +15,14 @@ By prajwal zingare
 
 
 
-🔗Go Live : [Project-03](https://project03-ineuron.netlify.app/)
-
 ---
 
 ![myproject](./assets/Screenshot%20(24).png)
+
+
+
+[ <img src= "https://img.shields.io/badge/Go LiVE-1DA1F?style=for-the-badge&logo=&logoColor=white" />](https://project03-ineuron.netlify.app/) 
+
 
 ---
 ## What I learned from this Project
